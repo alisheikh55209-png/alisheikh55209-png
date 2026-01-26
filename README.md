@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alisheikh55209&label=Profile%20Views&color=0A66C2&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=alisheikh55209-png&label=Profile%20Views&color=0A66C2&style=flat" />
 </p>
 
 ---
@@ -56,16 +56,17 @@ Each repository reflects **learning intent, clean structure, and correctness**.
 ---
 
 ## GitHub Activity & Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alisheikh55209&show_icons=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alisheikh55209-png&show_icons=true&rank_icon=github" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alisheikh55209" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alisheikh55209-png" />
 </p>
 
 ---
 
 ## Contact
 - 📧 Email: **ali.sheikh.dev@gmail.com**
-- 🔗 LinkedIn: www.linkedin.com/in/muhammadalisheikhbd
+- 🔗 LinkedIn: https://www.linkedin.com/in/muhammadalisheikhbd
