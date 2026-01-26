@@ -56,7 +56,9 @@ I approach learning systematically—working through problems methodically, stud
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alisheikh55209-png&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+<a href="https://github.com/alisheikh55209-png">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alisheikh55209-png&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+</a>
 
 </div>
 
