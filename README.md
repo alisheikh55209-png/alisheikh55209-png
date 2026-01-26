@@ -21,4 +21,4 @@ My focus is on building strong technical foundations through practical and acade
 
 ## 📫 Contact
 - Email: ali.sheikh.dev@gmail.com
-- LinkedIn: (add when available)
+- LinkedIn: www.linkedin.com/in/muhammadalisheikhbd
