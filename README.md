@@ -18,7 +18,7 @@
 
 I'm a Information Engineering Technology student building competence in software fundamentals. My current focus is on strengthening core programming skills, understanding data structures and algorithms, and developing clean, maintainable code through consistent practice.
 
-I approach learning systematically—working through problems methodically, studying established patterns, and applying concepts through hands-on projects. My goal is to develop the technical foundation and engineering discipline necessary for meaningful contributions to software systems.
+I approach learning systematically working through problems methodically, studying established patterns, and applying concepts through hands-on projects. My goal is to develop the technical foundation and engineering discipline necessary for meaningful contributions to software systems.
 
 ---
 
