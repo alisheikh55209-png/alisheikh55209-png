@@ -1,16 +1,24 @@
-## Hi there 👋
+# Muhammad Ali Sheikh
 
-<!--
-**alisheikh55209-png/alisheikh55209-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Information Engineering Technology Student  
+💻 Python, Git & Linux Learner  
+📍 Pakistan
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+I am a BS Information Engineering Technology student at the University of Lahore.  
+Currently, I am learning Python programming, Git/GitHub, and Linux fundamentals.  
+My focus is on building strong technical foundations through practical and academic projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Programming: Python, C++
+- Tools: Git, GitHub, Linux
+- Concepts: OOP, Data Structures, Basic Networking
+
+## 📂 Projects
+- Student Management System (Python)
+- Linux Command Practice
+- Git & GitHub Basics
+
+## 📫 Contact
+- Email: ali.sheikh.dev@gmail.com
+- LinkedIn: (add when available)
