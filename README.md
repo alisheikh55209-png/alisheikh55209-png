@@ -63,6 +63,10 @@ Each repository reflects **learning intent, clean structure, and correctness**.
   <img src="https://github-readme-stats.vercel.app/api?username=alisheikh55209-png&show_icons=true&include_all_commits=true&count_private=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alisheikh55209-png" />
+</p>
+
 ---
 
 ## Contact
