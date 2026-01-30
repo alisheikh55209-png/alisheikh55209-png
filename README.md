@@ -52,8 +52,35 @@ I approach learning systematically working through problems methodically, studyi
 
 ---
 
+## 📊 GitHub Statistics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alisheikh55209-png&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  
+### 🔥 Contribution Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alisheikh55209-png&theme=radical&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&ring=DD2727&fire=DD2727&currStreakLabel=DD2727)](https://git.io/streak-stats)
+
+### 💻 GitHub Profile Stats
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alisheikh55209-png&theme=radical" alt="Profile Details" />
+</p>
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alisheikh55209-png&theme=radical" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alisheikh55209-png&theme=radical&utcOffset=5" alt="Productive Time" />
+</p>
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=alisheikh55209-png&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 📈 Contribution Graph
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alisheikh55209-png&theme=redical&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 🌟 Top Languages
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alisheikh55209-png&theme=radical" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alisheikh55209-png&theme=radical" alt="Top Languages by Commit" />
+</p>
+
 </div>
 
 ---
