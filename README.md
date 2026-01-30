@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a Information Engineering Technology student building competence in software fundamentals. My current focus is on strengthening core programming skills, understanding data structures and algorithms, and developing clean, maintainable code through consistent practice.
+I'm an Information Engineering Technology student building competence in software fundamentals. My current focus is on strengthening core programming skills, understanding data structures and algorithms, and developing clean, maintainable code through consistent practice.
 
 I approach learning systematically working through problems methodically, studying established patterns, and applying concepts through hands-on projects. My goal is to develop the technical foundation and engineering discipline necessary for meaningful contributions to software systems.
 
@@ -54,17 +54,13 @@ I approach learning systematically working through problems methodically, studyi
 
 <div align="center">
 
-<div align="center">
-
-<div align="center">
-
 ## GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=alisheikh55209-png&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+![Stats](https://github-readme-stats.vercel.app/api?username=alisheikh55209-png&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisheikh55209-png&layout=compact&theme=tokyonight&hide_border=true" />
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=alisheikh55209-png&theme=tokyonight&hide_border=true)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alisheikh55209-png&theme=tokyonight&hide_border=true" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alisheikh55209-png&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
