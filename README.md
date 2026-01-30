@@ -56,18 +56,15 @@ I approach learning systematically working through problems methodically, studyi
 
 <div align="center">
 
+<div align="center">
+
 ## GitHub Analytics
 
-<p>
-  <img height="180em" src="https://streak-stats.demolab.com?user=alisheikh55209-png&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alisheikh55209-png&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=alisheikh55209-png&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alisheikh55209-png&theme=tokyonight" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisheikh55209-png&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alisheikh55209-png&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=alisheikh55209-png&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alisheikh55209-png&theme=tokyonight&hide_border=true" />
 
 </div>
 
