@@ -56,11 +56,18 @@ I approach learning systematically working through problems methodically, studyi
 
 ## GitHub Analytics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=alisheikh55209-png&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alisheikh55209-png&theme=tokyonight" width="100%"/>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=alisheikh55209-png&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alisheikh55209-png&layout=compact&theme=tokyonight&hide_border=true)
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alisheikh55209-png&theme=tokyonight"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alisheikh55209-png&theme=tokyonight"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alisheikh55209-png&theme=tokyonight"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alisheikh55209-png&theme=tokyonight&utcOffset=5"/></td>
+  </tr>
+</table>
 
 </div>
 
