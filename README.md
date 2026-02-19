@@ -92,13 +92,15 @@ These courses are shaping my understanding of **distributed systems, secure arch
 
 ## GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=alisheikh55209-png&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alisheikh55209-png&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alisheikh55209-png&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alisheikh55209-png&theme=tokyonight&hide_border=true" height="170"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisheikh55209-png&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisheikh55209-png&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
 
 ---
 
