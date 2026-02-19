@@ -90,26 +90,27 @@ These courses are shaping my understanding of **distributed systems, secure arch
 
 <div align="center">
 
+<div align="center">
+
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alisheikh55209-png&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisheikh55209-png&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%" alt="Top Languages"/>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=alisheikh55209-png&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=alisheikh55209-png&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak"/>
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=alisheikh55209-png&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alisheikh55209-png&theme=tokyo-night&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 
 ## Development Philosophy
 
-- Build strong foundations before scaling complexity  
-- Prioritize correctness over speed  
-- Engineer for maintainability  
-- Learn deeply, not quickly  
-- Think in systems, not scripts  
+Build strong foundations before scaling complexity  
+Prioritize correctness over speed  
+Engineer for maintainability  
+Learn deeply, not quickly  
+Think in systems, not scripts  
 
 ---
 
