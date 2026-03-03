@@ -123,20 +123,20 @@ status      : Actively learning · Open to internships
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=alisheikh55209-png&theme=github-dark-blue&hide_border=true&background=0D1117&ring=2F81F7&fire=FF6B6B&currStreakLabel=2F81F7" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=alisheikh55209-png&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=c9d1d9&count_private=true&include_all_commits=true" width="49%" />
-
-<br/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=alisheikh55209-png&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisheikh55209-png&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=c9d1d9&langs_count=8" width="40%" />
 
+<br/><br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=alisheikh55209-png&theme=dark&hide_border=true&background=0D1117&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7&sideLabels=c9d1d9&sideNums=ffffff&dates=8b949e)](https://git.io/streak-stats)
+
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=alisheikh55209-png&theme=algolia&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=alisheikh55209-png&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alisheikh55209-png&theme=github-compact&bg_color=0D1117&color=2F81F7&line=2F81F7&point=FFFFFF&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alisheikh55209-png&bg_color=0D1117&color=2F81F7&line=2F81F7&point=58a6ff&area_color=1a3a5c&area=true&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 </div>
 
