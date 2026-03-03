@@ -137,6 +137,23 @@ status      : Actively learning · Open to internships
 
 ---
 
+## `> projects --featured`
+
+<div align="center">
+
+| # | Project | Stack | Description | Status |
+|---|---|---|---|:---:|
+| 01 | 🔧 **Coming Soon** | Python · REST API | Backend system project | 🔄 In Progress |
+| 02 | 🗄️ **Coming Soon** | Node.js · MySQL | Database-driven application | 🔄 In Progress |
+| 03 | 🛡️ **Coming Soon** | C++ · Systems | Low-level / systems programming | 📅 Planned |
+
+</div>
+
+> 🚧 Projects are currently in development as part of my academic and self-learning track.  
+> This section will be updated with live repos, demos, and documentation as they're completed.
+
+---
+
 ## `> roadmap --2025`
 
 ```mermaid
